@@ -65,14 +65,14 @@
     },
     "virtualNetworkName": {
       "type": "string",
-      "defaultValue": "az1000301-RG-vnet",
+      "defaultValue": "az1000302-RG-vnet",
       "metadata": {
         "description": "Virtual network name"
       }
     },
     "virtualNetworkResourceGroup": {
       "type": "string",
-      "defaultValue": "az1000301-RG",
+      "defaultValue": "az1000302-RG",
       "metadata": {
         "description": "Resource group of the VNet"
       }
